@@ -31,3 +31,5 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
+# Reviser note: the repair inverts the very permission it was meant to restrict.
